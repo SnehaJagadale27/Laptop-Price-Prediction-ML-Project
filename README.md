@@ -148,6 +148,11 @@ Try multiple regression models, compare performance:
 
 ---
 
+**Snapshots
+
+<img width="493" height="616" alt="image" src="https://github.com/user-attachments/assets/5b624708-060f-4acc-a622-d08addd32893" />
+
+
 ## Project Structure
 
 
